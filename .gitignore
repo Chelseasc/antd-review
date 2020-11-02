@@ -17,3 +17,4 @@ ignorecase = false
 package.json.rej
 package-lock.json
 yarn.lock
+.umi
