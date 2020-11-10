@@ -1,0 +1,30 @@
+{
+  "name": "antd-review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chelseasc/antd-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chelseasc/antd-review/issues"
+  },
+  "homepage": "https://github.com/Chelseasc/antd-review#readme",
+  "devDependencies": {
+    "@umijs/preset-react": "^1",
+    "umi": "^3.2.24",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "antd": "^4.8.2"
+  }
+}
